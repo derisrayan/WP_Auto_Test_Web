@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access a Product via Search</description>
+   <name>Access a Product via Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6817edfb-60c6-4869-9181-d82946a28a7a</testCaseGuid>
+</TestCaseEntity>

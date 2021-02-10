@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_result</name>
+   <tag></tag>
+   <elementGuidId>0afe6e2f-6c21-4765-b64a-7bfec21f04c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='srp-river-results']/ul/li/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.s-item__info.clearfix</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-item__info clearfix</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GOJW0Spo13nsoCrZUedNApple Macbook Pro 13&quot; Laptop | i5 8GB RAM | 500GB HD | CATALINA | 3 YRS WARRANTYSAME DAY SHIPPING + SUPPORT + UPGRADED + PERFORMANCEPre-Owned · 2012 · 13.3 in · 500 GBIDR5,478,873.24Top Rated SellerTop Rated SellerWas: Previous PriceIDR11,267,464.79  51% offFrom United StatesBuy It NowCustoms services and international tracking provided+IDR325,774.65 shipping estimate</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;srp-river-results&quot;)/ul[@class=&quot;srp-results srp-list clearfix&quot;]/li[@class=&quot;s-item    s-item--watch-at-corner&quot;]/div[@class=&quot;s-item__wrapper clearfix&quot;]/div[@class=&quot;s-item__info clearfix&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='srp-river-results']/ul/li/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- apply Screen Size filter'])[4]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- apply Screen Size filter'])[3]/following::div[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

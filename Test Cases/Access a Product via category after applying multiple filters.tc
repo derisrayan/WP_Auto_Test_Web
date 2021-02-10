@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ebay test filter</name>
+   <name>Access a Product via category after applying multiple filters</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>957a0231-7536-4544-81fb-6ee7ffbab198</testCaseGuid>
